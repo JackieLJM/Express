@@ -1,0 +1,14 @@
+{
+  "name": "express-io",
+  "version": "1.0.0",
+  "description": "Hybird tech of express and socket.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express.io": "^1.1.13"
+  }
+}
